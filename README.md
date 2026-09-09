@@ -7,7 +7,7 @@ retraining.
 ## Architecture overview
 
 ```
-<img width="3024" height="1206" alt="_- visual selection" src="https://github.com/user-attachments/assets/2430a061-7c87-48d0-8d08-a82fdd6dd85e" />
+<img width="3024" height="1206" alt="_- visual selection" src="https://github.com/user-attachments/assets/affd0111-ea91-4dae-839a-641d1da41ac6" />
 
 ```
 
