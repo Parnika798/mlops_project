@@ -6,9 +6,7 @@ retraining.
 
 ## Architecture overview
 
-```
-<img width="3024" height="1206" alt="Architecture overview" src="https://github.com/user-attachments/assets/affd0111-ea91-4dae-839a-641d1da41ac6" />
-```
+<img width="3024" height="1206" alt="_- visual selection" src="https://github.com/user-attachments/assets/4b4a1ef1-beb3-4181-b25a-74c6a1600c92" />
 
 ## Repo contents
 
