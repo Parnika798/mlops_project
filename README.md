@@ -7,22 +7,8 @@ retraining.
 ## Architecture overview
 
 ```
-Raw loan data
-      |
-      v
-[1] data_pipeline.py   -> validates schema/data quality, engineers features
-      |
-      v
-[2] train_model.py     -> trains XGBoost, logs experiments to MLflow,
-      |                    registers + promotes the model if it clears
-      |                    the quality bar
-      v
-[3] app.py              -> FastAPI service serving real-time predictions
-      |                    from the "Production" model in the registry
-      v
-[4] monitor.py           -> scheduled job checking data drift, prediction
-                             drift, and live performance decay; flags when
-                             retraining is needed (loops back to step 2)
+<img width="3024" height="1206" alt="_- visual selection" src="https://github.com/user-attachments/assets/2430a061-7c87-48d0-8d08-a82fdd6dd85e" />
+
 ```
 
 ## Repo contents
